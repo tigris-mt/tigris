@@ -7,7 +7,7 @@
 ## Exploration
 * Require exploration into danger zone for materials.
 * Require exploration into danger zone for progression.
- * Perhaps: Locating the most powerful demons which must be summoned at certain locations.
+  * Perhaps: Locating the most powerful demons which must be summoned at certain locations.
 ## Creating
 * Crafting-based magic.
 * Animal parts for best clothing, food, etc.
@@ -21,4 +21,4 @@
 * Gaining more powerful magic.
 * Crafting better weapons and armor.
 * Defeating demons(?) to progress in your conquest (re-conquest?) of the world.
- * Gain power through this.
+  * Gain power through this.
