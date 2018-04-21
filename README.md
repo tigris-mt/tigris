@@ -1,3 +1,8 @@
+# Dependencies
+* default
+* fire
+* [smartfs](https://github.com/minetest-mods/smartfs)
+
 # Goals
 ## Danger
 * Mobs.
