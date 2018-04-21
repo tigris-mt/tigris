@@ -1,0 +1,3 @@
+[submodule "tigris_thermal"]
+	path = tigris_thermal
+	url = https://github.com/tigris-mt/tigris_thermal
