@@ -4,3 +4,12 @@
 [submodule "tigris_base"]
 	path = tigris_base
 	url = https://github.com/tigris-mt/tigris_base
+[submodule "tigris_mobs"]
+	path = tigris_mobs
+	url = https://github.com/tigris-mt/tigris_mobs.git
+[submodule "tigris_magic"]
+	path = tigris_magic
+	url = https://github.com/tigris-mt/tigris_magic.git
+[submodule "tigris_player"]
+	path = tigris_player
+	url = https://github.com/tigris-mt/tigris_player.git
