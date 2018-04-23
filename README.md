@@ -1,6 +1,12 @@
 # Dependencies
+## Minetest Game
 * default
+* bucket
 * fire
+* flowers
+* vessels
+
+## 3rd party
 * [smartfs](https://github.com/minetest-mods/smartfs)
   * Minetest formspecs are unwieldy.
 
