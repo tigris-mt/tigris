@@ -2,6 +2,9 @@
 * default
 * fire
 * [smartfs](https://github.com/minetest-mods/smartfs)
+  * Minetest formspecs are unwieldy.
+* [hudbars](http://repo.or.cz/minetest_hudbars.git)
+  * Minetest does not have easy, built-in HUD layouting.
 
 # Goals
 ## Danger
