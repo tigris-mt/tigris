@@ -9,6 +9,10 @@
 ## 3rd party
 * [smartfs](https://github.com/minetest-mods/smartfs)
   * Minetest formspecs are unwieldy.
+* [playereffects](https://forum.minetest.net/viewtopic.php?t=9689)
+  * Minetest doesn't support player effects.
+* [player_monoids](https://github.com/minetest-mods/player_monoids)
+  * Minetest doesn't support player monoids.
 
 ## Optional
 * [hudbars](http://repo.or.cz/minetest_hudbars.git)
