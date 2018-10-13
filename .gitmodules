@@ -13,3 +13,6 @@
 [submodule "tigris_player"]
 	path = tigris_player
 	url = https://github.com/tigris-mt/tigris_player.git
+[submodule "tigris_underworld"]
+	path = tigris_underworld
+	url = https://github.com/tigris-mt/tigris_underworld
