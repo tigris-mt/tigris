@@ -4,6 +4,7 @@
 * bucket
 * fire
 * flowers
+* wool
 * vessels
 
 ## 3rd party
