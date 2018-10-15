@@ -16,3 +16,9 @@
 [submodule "tigris_underworld"]
 	path = tigris_underworld
 	url = https://github.com/tigris-mt/tigris_underworld
+[submodule "tigris_mobs_monsters"]
+	path = tigris_mobs_monsters
+	url = https://github.com/tigris-mt/tigris_mobs_monsters
+[submodule "tigris_mobs_animals"]
+	path = tigris_mobs_animals
+	url = https://github.com/tigris-mt/tigris_mobs_animals
