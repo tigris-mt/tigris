@@ -22,3 +22,6 @@
 [submodule "tigris_mobs_animals"]
 	path = tigris_mobs_animals
 	url = https://github.com/tigris-mt/tigris_mobs_animals
+[submodule "fertilepots"]
+	path = fertilepots
+	url = https://github.com/tigris-mt/fertilepots
