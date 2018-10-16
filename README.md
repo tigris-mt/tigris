@@ -14,6 +14,8 @@
   * Minetest doesn't support player effects.
 * [player_monoids](https://github.com/minetest-mods/player_monoids)
   * Minetest doesn't support player monoids.
+* [armor_monoid](https://github.com/minetest-mods/armor_monoid)
+  * Necessary for compatability between armor mods.
 
 ## Optional
 * [hudbars](http://repo.or.cz/minetest_hudbars.git)
