@@ -25,6 +25,6 @@
 [submodule "fertilepots"]
 	path = fertilepots
 	url = https://github.com/tigris-mt/fertilepots
-[submodule "tigris_jewelry"]
-	path = tigris_jewelry
-	url = https://github.com/tigris-mt/tigris_jewelry
+[submodule "jewelry"]
+	path = jewelry
+	url = https://github.com/tigris-mt/jewelry
